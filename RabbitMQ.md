@@ -1,4 +1,9 @@
 # RabbitMQ
+
+## Python code for RabbitMQ tutorials
+
+https://github.com/emineztrk/RabbitMQ
+
 ## Operating System Kernel Limits
 Most operating systems enforce limits on kernel resources: virtual memory, stack size, open file handles and more. To Linux users these limits can be known as "ulimit limits".
 
